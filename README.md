@@ -2,4 +2,4 @@
 
 Calculadora de operações básicas desenvolvida com HTML/CSS/JavaScript
 
-![calculadoraJs](https://user-images.githubusercontent.com/97813836/185746896-b4f832b8-a076-4a3d-8f6d-3587e9300725.png)
+![image](https://user-images.githubusercontent.com/97813836/188231938-17612246-ac3f-4592-b61d-a2a0d5090561.png)
